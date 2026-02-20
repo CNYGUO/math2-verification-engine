@@ -24,7 +24,7 @@ README.md               项目说明
 lim sin(x)/x = 1
 通过数值计算观察 x → 0 时函数值变化。
 文件：
-limits/limit_numeric.py
+limit_numeric.py
 ---
 ### 2. 导数定义验证（Derivatives）
 数学定义：
@@ -34,7 +34,7 @@ f'(x) = lim(h→0) (f(x+h)−f(x))/h
 f(x)=x²  
 f'(x)=2x
 文件：
-derivatives/derivative_definition.py
+derivative_definition.py
 ---
 
 ### 3. 定积分验证（Integrals）
@@ -49,7 +49,7 @@ integrals/riemann_sum.py
 矩阵逆  
 矩阵乘法  
 文件：
-linear_algebra/matrix_inverse.py
+matrix_inverse.py
 ---
 ## 技术栈
 Python 3  
