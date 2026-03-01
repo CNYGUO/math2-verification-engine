@@ -1,5 +1,5 @@
 # math2-verification-engine
-# 数二数学验证工程（Math2 Verification Engine）
+# 数二数学验证工程（Math2 Verification Engine）(基于AIGC工具)
 ## 项目简介
 本项目用于通过 Python 数值计算验证考研数学二（高等数学与线性代数）的核心数学概念。
 将抽象数学公式转化为可计算程序，加深对极限、导数、积分和矩阵等内容的理解。
